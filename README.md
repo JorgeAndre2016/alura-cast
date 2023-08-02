@@ -1,4 +1,4 @@
-# alura-cadt
+# alura-cast
 Curso sobre layout e grid
 
 CSS: construindo layouts com Grid
